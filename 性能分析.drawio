@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T12:29:20.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="XVpm0LP1VtxwFI2tGSGD" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T12:44:35.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="d8lLgMY8x9GbTdaiy0tA" version="17.1.2" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="1351" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,17 +19,14 @@
         <mxCell id="57fe6abec08f04cb-5" value="资源请求" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-6" value="接口请求" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-2" value="解析" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="990" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="850" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-3" value="布局" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="1010" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-4" value="渲染" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="1170" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.011;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" target="57fe6abec08f04cb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,22 +49,22 @@
         <mxCell id="urNTPmYLF7qrJtSu_KFi-9" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Native&lt;br&gt;耗时&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="urNTPmYLF7qrJtSu_KFi-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=26;strokeWidth=3;entryX=0.818;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="57fe6abec08f04cb-6">
+        <mxCell id="urNTPmYLF7qrJtSu_KFi-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=26;strokeWidth=3;entryX=0.818;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="430" as="sourcePoint" />
-            <mxPoint x="1020" y="270" as="targetPoint" />
+            <mxPoint x="839" y="430" as="sourcePoint" />
+            <mxPoint x="839.29" y="243.44000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=26;strokeWidth=3;entryX=0.818;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1430" y="560" as="sourcePoint" />
-            <mxPoint x="1430" y="260.00000000000006" as="targetPoint" />
+            <mxPoint x="1590" y="560" as="sourcePoint" />
+            <mxPoint x="1590" y="260.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=26;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="980" y="430" as="targetPoint" />
+            <mxPoint x="830" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-13" value="&lt;font color=&quot;#ffffff&quot;&gt;网络耗时&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#0062C4;" vertex="1" parent="1">
@@ -75,8 +72,8 @@
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=26;fontColor=#FFFFFF;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="380" as="sourcePoint" />
-            <mxPoint x="1420" y="380" as="targetPoint" />
+            <mxPoint x="840" y="380" as="sourcePoint" />
+            <mxPoint x="1590" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-15" value="渲染耗时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -85,11 +82,17 @@
         <mxCell id="urNTPmYLF7qrJtSu_KFi-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=26;fontColor=#FFFFFF;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="560" as="sourcePoint" />
-            <mxPoint x="1435.7142857142858" y="560" as="targetPoint" />
+            <mxPoint x="1580" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="urNTPmYLF7qrJtSu_KFi-17" value="总耗时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="780" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="urNTPmYLF7qrJtSu_KFi-18" value="接口请求" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="urNTPmYLF7qrJtSu_KFi-19" value="FMP" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="180" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
