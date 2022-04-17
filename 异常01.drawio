@@ -1,32 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T03:10:48.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="lAqrv8vEFovkAZd8VAw-" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T03:25:29.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="QCBzNX6HrsUCZxaiairG" version="17.4.3" type="github">
   <diagram id="-0FPj-sDw3rZwn_hl0Y1" name="第 1 页">
     <mxGraphModel dx="946" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M1R37AXIukSo1J08W00a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="179" y="100" width="481" height="320" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="130" width="481" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-4" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;解决的问题&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="359" y="120" width="110" height="30" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry width="481" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-6" value="收集多维度用户信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="210" y="160" width="190" height="60" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-4" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;解决的问题&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="180" y="20" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-7" value="收集用户行为" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="190" height="60" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-6" value="收集多维度用户信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="31" y="60" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-8" value="多平台,多业务线收集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="190" height="60" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-7" value="收集用户行为" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="261" y="60" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-9" value="保护敏感用户信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="190" height="60" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-8" value="多业务线收集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="31" y="140" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-10" value="满足定制化需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="210" y="320" width="190" height="60" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-9" value="保护敏感用户信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="261" y="140" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1R37AXIukSo1J08W00a-11" value="错误信息分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="190" height="60" as="geometry" />
+        <mxCell id="M1R37AXIukSo1J08W00a-10" value="满足定制化需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="31" y="220" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1R37AXIukSo1J08W00a-11" value="错误信息分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M1R37AXIukSo1J08W00a-13">
+          <mxGeometry x="261" y="220" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
